@@ -1,6 +1,4 @@
---Prerequisites
-
- 
+##Prerequisites
 
 Please be sure to have your login data for OJS available - it was sent by you via E-Mail.
 
@@ -14,7 +12,7 @@ Right beneath "Author" you click on the link [New Submission] to go to the five 
 
  
  
-Step 1. Starting the submission
+##Step 1. Starting the submission
 
  
 
